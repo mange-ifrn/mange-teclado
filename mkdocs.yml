@@ -1,0 +1,31 @@
+site_name: Teclado ABNT2
+site_author: Jurandy Soares
+
+
+theme:
+  name: material
+  language: pt
+
+nav:
+  - index.md
+  - teclas-de-funcao.md
+  - teclas-de-bloqueio.md
+  - teclas-modificadoras.md
+  - teclas-numericas.md
+  - teclas-de-sistema-e-de-interface.md
+  - teclas-alfanumericas.md
+  - teclas-de-comando-e-de-edicao.md
+  - teclas-de-navegacao.md
+  - Teclas:
+    - tecla/alt.md
+    - tecla/altgr.md
+    - tecla/ctrl.md
+    - tecla/delete.md
+    - tecla/end.md
+    - tecla/esc.md
+    - tecla/home.md
+    - tecla/insert.md
+    - tecla/pgdn.md
+    - tecla/pgup.md
+    - tecla/shift.md
+    - tecla/tab.md
